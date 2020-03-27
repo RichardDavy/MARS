@@ -6,4 +6,10 @@ temperature=-60
 humidity=80
 moons=2
 
+if colour == "red":
+	print("Good, the colour of my enemies blood")
+else:
+	print("Make it REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE-D")
+
+
 
