@@ -13,3 +13,5 @@ else:
 
 
 
+print("ERIN IS A SILLY SAUSAGE, and mars has", moons, " moons")
+
